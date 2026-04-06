@@ -44,7 +44,7 @@ Make sure you have pip installed on your system. If you don't have it, you can i
 
 ## Project Background
 
-This project was developed as part of my Master's first-year in Computer Science, second-semester field project. It serves as a culmination of academic learning and practical application in the field of computer science.
+This project was developed as part of my Master’s first-year field project and demonstrates the application of my academic learning in computer science.
 
 > ⚠️ Note: This standalone application is specifically tailored for use by Gajul Fabrics and other textile industry companies. Its functionality and features are designed to meet the specific needs of this organization and may not be suitable for other purposes.
 
@@ -53,8 +53,8 @@ This project was developed as part of my Master's first-year in Computer Science
 - Provides a user-friendly interface for efficient management of production processes.
 - Generates detailed reports to aid in decision-making and analysis.
 - Utilizes MySQL database for storing and retrieving production data.
-- Designed to streamline workflow, reduce manual recording and analysis of production and salaries, and improve overall productivity within the organization.
-- Additionally, it includes functionality to manage and save salary information for workers.
+- Designed to streamline workflow, reduce manual recording and analysis of production and payroll, and improve overall productivity within the organization.
+- Additionally, it includes functionality to manage and save payroll information for workers.
 
 `This comprehensive set of features is why it is named the Production and Payroll Management System.`
 ## Download Executable & User Manual
